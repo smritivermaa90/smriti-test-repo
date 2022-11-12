@@ -1,13 +1,13 @@
 This repository contains the setup of a REST API testing project, implemented with Karate(A web service testing framework build on top of Cucumber library). It includes GET tests, executed to test multiple scenarios for web service at https://www.purgomalum.com/ 
 
 **Requirements**
-1)	JDK 18
-2)	Maven 4.0.0
+JDK 18
+Maven 4.0.0
 
 **Dependencies**
-1)	karate-core
-2)	karate-apache
-3)	karate-junit4
+karate-core
+karate-apache
+karate-junit4
 
 **Test Execution**
 1)	Download project zip file from Github to your system
