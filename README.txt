@@ -18,7 +18,7 @@ karate-junit4
 6)	Right click and select Run As > JUnit Test
 
 **Results**
-To view the test report, in Project Explorer, go to project > target > karate-reports > karate-summary.html once the execution has finished.
+To view the test report, in Project Explorer, go to this project > target > karate-reports > karate-summary.html once the execution has finished.
 
 **Links**
 https://www.purgomalum.com/ 
